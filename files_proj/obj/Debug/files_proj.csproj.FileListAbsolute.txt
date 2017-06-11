@@ -1,0 +1,18 @@
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\bin\Debug\files_proj.exe.config
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\bin\Debug\files_proj.exe
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\bin\Debug\files_proj.pdb
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\obj\Debug\files_proj.csprojResolveAssemblyReference.cache
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\obj\Debug\files_proj.Properties.Resources.resources
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\obj\Debug\files_proj.csproj.GenerateResource.Cache
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\obj\Debug\files_proj.exe
+c:\users\mada\documents\visual studio 2015\Projects\files_proj\files_proj\obj\Debug\files_proj.pdb
+C:\Users\MaDa\Documents\Visual Studio 2015\Projects\files_proj\files_proj\obj\Debug\files_proj.Form1.resources
+E:\Collage\files_proj\files_proj\bin\Debug\files_proj.exe.config
+E:\Collage\files_proj\files_proj\bin\Debug\files_proj.exe
+E:\Collage\files_proj\files_proj\bin\Debug\files_proj.pdb
+E:\Collage\files_proj\files_proj\obj\Debug\files_proj.csprojResolveAssemblyReference.cache
+E:\Collage\files_proj\files_proj\obj\Debug\files_proj.Form1.resources
+E:\Collage\files_proj\files_proj\obj\Debug\files_proj.Properties.Resources.resources
+E:\Collage\files_proj\files_proj\obj\Debug\files_proj.csproj.GenerateResource.Cache
+E:\Collage\files_proj\files_proj\obj\Debug\files_proj.exe
+E:\Collage\files_proj\files_proj\obj\Debug\files_proj.pdb
